@@ -1,0 +1,3 @@
+
+
+ZSH_DATETIME_PROMPT=$(date)
